@@ -3,9 +3,9 @@
 /******************************************************* SETUP ************************************************************/
 
 const config = {
-    name: "Eh Afnana Lailatul Inayah", // actual name of the recipient (Mandatory)
+    name: "Eh Nurlaela", // actual name of the recipient (Mandatory)
 
-    nickname: "Afnana", // nickname(optional)
+    nickname: "Gembulku", // nickname(optional)
 
     pic: "", //image url of recipients (Mandatory)
 
@@ -176,7 +176,7 @@ button.addEventListener("click",function(){
             return;
         }
 
-        document.querySelector(".HBD").textContent = "Jadilah pribadi yang Tersungkur, Terbentur, Terbentuk yo..!!";
+        document.querySelector(".HBD").textContent = "Jadilah pribadi yang Tersungkur, Terbentur, Terbentuk yaa..!!";
 
         frames[1].style.display = "flex";
 
