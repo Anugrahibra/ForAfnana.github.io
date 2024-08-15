@@ -176,7 +176,7 @@ button.addEventListener("click",function(){
             return;
         }
 
-        document.querySelector(".HBD").textContent = "Jadilah pribadi yang Tersungkur, Terbentur, Terbentuk yaa..!!";
+        document.querySelector(".HBD").textContent = "Tetap jadi kesayangannya AIBO ya mbull, dan jangan tantruman hehe :v";
 
         frames[1].style.display = "flex";
 
